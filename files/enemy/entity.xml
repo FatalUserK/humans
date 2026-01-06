@@ -1,8 +1,0 @@
-<Entity>
-	<DamageModelComponent
-		max_hp="8"
-		blood_material="slime"
-	/>
-
-	
-</Entity>
