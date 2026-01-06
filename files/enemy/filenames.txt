@@ -1,0 +1,10 @@
+mods/humans/files/enemy/ragdolls/torso.png
+mods/humans/files/enemy/ragdolls/thighs.png
+mods/humans/files/enemy/ragdolls/right_foot.png
+mods/humans/files/enemy/ragdolls/right_arm.png
+mods/humans/files/enemy/ragdolls/right_hand.png
+mods/humans/files/enemy/ragdolls/fuse.png
+mods/humans/files/enemy/ragdolls/left_foot.png
+mods/humans/files/enemy/ragdolls/left_arm.png
+mods/humans/files/enemy/ragdolls/left_hand.png
+mods/humans/files/enemy/ragdolls/head.png
